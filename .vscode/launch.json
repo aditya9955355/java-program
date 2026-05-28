@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "java_a28f1cdd"
+        },
+        {
+            "type": "java",
+            "name": "BacktrackingPermutation",
+            "request": "launch",
+            "mainClass": "BacktrackingPermutation",
+            "projectName": "java_a28f1cdd"
+        },
+        {
+            "type": "java",
+            "name": "Subset",
+            "request": "launch",
+            "mainClass": "Subset",
+            "projectName": "java_a28f1cdd"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Subset.java",
+            "request": "launch",
+            "mainClass": "${workspaceFolder}/Subset.java"
+        }
+    ]
+}
