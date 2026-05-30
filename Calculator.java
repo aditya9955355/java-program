@@ -29,7 +29,7 @@ public class Calculator {
                 System.out.println(a%b + "Module");
             }
             break;
-            default: System.out.println("Invalid operator")
+            default: System.out.println("Invalid operator");
 
 
         }

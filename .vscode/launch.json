@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Backtacking",
+            "request": "launch",
+            "mainClass": "Backtacking",
+            "projectName": "java_a28f1cdd"
+        },
+        {
+            "type": "java",
             "name": "Calculator",
             "request": "launch",
             "mainClass": "Calculator",
